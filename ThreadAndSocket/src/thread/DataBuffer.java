@@ -1,4 +1,4 @@
-package thread;
+
 
 public class DataBuffer {
     private int data = 0;

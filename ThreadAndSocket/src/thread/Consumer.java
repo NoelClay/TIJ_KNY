@@ -1,4 +1,3 @@
-package thread;
 
 public class Consumer extends Thread {
     private DataBuffer buffer;

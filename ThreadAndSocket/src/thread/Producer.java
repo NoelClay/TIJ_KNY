@@ -1,4 +1,4 @@
-package thread;
+
 
 public class Producer extends Thread {
     private DataBuffer buffer;

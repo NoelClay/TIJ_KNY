@@ -1,4 +1,4 @@
-package thread;
+
 
 public class SumThread extends Thread{
 
