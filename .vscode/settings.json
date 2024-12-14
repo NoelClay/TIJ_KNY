@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "ThreadAndSocket\\src",
+        "ThreadAndSocket\\src\\thread"
+    ],
+    "java.project.referencedLibraries": [
+        "e:\\WorkSpace\\VSCode\\TIJ_KNY\\ThreadAndSocket\\lib\\json-20240303.jar"
+    ]
+}
